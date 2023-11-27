@@ -1,0 +1,2 @@
+machine intelligente : 9+9+7.5+10.5+9+9+7.5+10.5+6.5+9 moy=8.75sec
+machine basique : 18+15+21+21+21+42+30+30+6+27 moy=23.1sec

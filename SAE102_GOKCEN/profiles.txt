@@ -1,0 +1,5 @@
+,Intelligent,Robot,8,Super Intelligentman$;
+,Basique,Humain,10,Marine;
+,Normal,Robot,4,R0b0ot;
+,Basique,Humain,6,Jean;
+,Basique,Humain,5,Rodriguez;
